@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/autori
 x = input()
 x = x.split("-")
 result = ""

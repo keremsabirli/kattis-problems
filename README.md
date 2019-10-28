@@ -1,1 +1,1 @@
-# Just my solutions to some kattis problems
+Just my solutions to some kattis problems

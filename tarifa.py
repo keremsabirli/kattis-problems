@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/tarifa
 monthly, loopCount = int(input()), int(input())
 result = 0
 for x in range(loopCount):
