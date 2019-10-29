@@ -1,4 +1,3 @@
 # https://open.kattis.com/problems/carrots
-x = input()
-x = x.split()
+x = input().split()
 print(x[1])
